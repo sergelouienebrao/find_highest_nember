@@ -23,11 +23,8 @@ def find_highest():
 
  if num5 > highest:
     highest = num5
-#print the highest number 
+#print the highest number  
+ print("The highest number:", highest)
 
 #call the function to run the program
 find_highest()
-
-
-
-
