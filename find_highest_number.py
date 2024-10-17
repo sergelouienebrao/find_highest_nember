@@ -23,4 +23,5 @@ def find_highest():
  
  print("The highest number:", highest)
 
+
 find_highest()
